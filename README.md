@@ -144,6 +144,7 @@ AI product studio building intelligent applications across health, productivity,
 
 *"Build things that matter."*
 
+<!-- updated -->
 ![Profile views](https://komarev.com/ghpvc/?username=Enggadil&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>

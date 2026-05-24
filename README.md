@@ -51,34 +51,50 @@ AI product studio building intelligent applications across health, productivity,
 ## Popular Repositories
 
 <div align="center">
-
 <table>
 <tr>
-<td width="50%">
 
-[![cifar10](https://github-readme-stats.vercel.app/api/pin/?username=Enggadil&repo=cifar10-neural-networks&theme=tokyonight&hide_border=true)](https://github.com/Enggadil/cifar10-neural-networks)
-
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Enggadil/cifar10-neural-networks">🧠 cifar10-neural-networks</a></h3>
+Dense vs CNN comparison on CIFAR-10 — 80.59% accuracy using PyTorch, BatchNorm & Dropout. CSC ML Final Project.
+<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </td>
-<td width="50%">
 
-[![sign-language](https://github-readme-stats.vercel.app/api/pin/?username=Enggadil&repo=sign-language-to-text&theme=tokyonight&hide_border=true)](https://github.com/Enggadil/sign-language-to-text)
-
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Enggadil/sign-language-to-text">🤟 sign-language-to-text</a></h3>
+Two-way ASL sign language to text conversion — Android app with CNN model. NUML FYP 2022.
+<br/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
+
 </tr>
 <tr>
-<td width="50%">
 
-[![gradient-descent](https://github-readme-stats.vercel.app/api/pin/?username=Enggadil&repo=gradient-descent-ml&theme=tokyonight&hide_border=true)](https://github.com/Enggadil/gradient-descent-ml)
-
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Enggadil/gradient-descent-ml">📉 gradient-descent-ml</a></h3>
+From-scratch implementation of Minibatch Gradient Descent, Early Stopping, and Learning Curve visualization using NumPy.
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
 </td>
-<td width="50%">
 
-[![medicaid-fraud](https://github-readme-stats.vercel.app/api/pin/?username=Enggadil&repo=medicaid-fraud-detector&theme=tokyonight&hide_border=true)](https://github.com/Enggadil/medicaid-fraud-detector)
-
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Enggadil/medicaid-fraud-detector">🔍 medicaid-fraud-detector</a></h3>
+AI fraud detection system for Medicaid provider spending — anomaly detection with interactive dashboards.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </td>
+
 </tr>
 </table>
-
 </div>
 
 ---

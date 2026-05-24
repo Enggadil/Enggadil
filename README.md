@@ -48,6 +48,41 @@ AI product studio building intelligent applications across health, productivity,
 
 ---
 
+## Popular Repositories
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+[![cifar10](https://github-readme-stats.vercel.app/api/pin/?username=Enggadil&repo=cifar10-neural-networks&theme=tokyonight&hide_border=true)](https://github.com/Enggadil/cifar10-neural-networks)
+
+</td>
+<td width="50%">
+
+[![sign-language](https://github-readme-stats.vercel.app/api/pin/?username=Enggadil&repo=sign-language-to-text&theme=tokyonight&hide_border=true)](https://github.com/Enggadil/sign-language-to-text)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![gradient-descent](https://github-readme-stats.vercel.app/api/pin/?username=Enggadil&repo=gradient-descent-ml&theme=tokyonight&hide_border=true)](https://github.com/Enggadil/gradient-descent-ml)
+
+</td>
+<td width="50%">
+
+[![medicaid-fraud](https://github-readme-stats.vercel.app/api/pin/?username=Enggadil&repo=medicaid-fraud-detector&theme=tokyonight&hide_border=true)](https://github.com/Enggadil/medicaid-fraud-detector)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
